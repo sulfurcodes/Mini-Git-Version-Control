@@ -8,3 +8,7 @@ htmlcov/
 .idea/
 .DS_Store
 Thumbs.db
+src/commands.py
+src/index.py
+src/refs.py
+src/utils.py
